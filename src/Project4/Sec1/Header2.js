@@ -7,8 +7,6 @@ function Deals() {
       <p>
         Find the best deals on our products! Find the best deals on our products Find the best deals on our products Find the best deals on our products
       </p>
-
-      {/* ✅ Image کو درست کیا */}
       <img src="/assest/logo.jpeg" alt="Haroon Aziz" style={{ width: '500px', height: 'auto', display: 'block', marginBottom: '10px' }} />
       <p>
       Find the best deals on our products! Find the best deals on our products Find the best deals on our products Find the best deals on our products<br/>      Find the best deals on our products! Find the best deals on our products Find the best deals on our products Find the best deals on our products<br/>      Find the best deals on our products! Find the best deals on our products Find the best deals on our products Find the best deals on our products
